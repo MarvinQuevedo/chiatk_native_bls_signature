@@ -1,0 +1,29 @@
+PODS:
+  - chiatk-bls-signatures-pod (1.0.83)
+  - chiatk_bls_signature (0.0.1):
+    - chiatk-bls-signatures-pod (= 1.0.83)
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - chiatk_bls_signature (from `.symlinks/plugins/chiatk_bls_signature/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - chiatk-bls-signatures-pod
+
+EXTERNAL SOURCES:
+  chiatk_bls_signature:
+    :path: ".symlinks/plugins/chiatk_bls_signature/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  chiatk-bls-signatures-pod: 7198b6173d1660eb66a5aec1403927beb2c199cd
+  chiatk_bls_signature: 227f9ab5ae9362a2925dc732ef40cd5bd54e55ff
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: 4cf22770aa43cb53d97d601fcbec0ad37dd15820
+
+COCOAPODS: 1.11.2
