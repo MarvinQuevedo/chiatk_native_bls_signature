@@ -53,7 +53,7 @@ typedef AugSchemeMPLDeriveChildSkFunction = Pointer<Uint8> Function(
   Pointer<Uint8> pkBytes,
   Int32 pkBytesLength,
   Pointer<Uint64> resultSizePointer,
-  Int32 index,
+  Uint32 index,
 );
 typedef AugSchemeMPLDeriveChildSkFunctionDart = Pointer<Uint8> Function(
   Pointer<Uint8> pkBytes,
