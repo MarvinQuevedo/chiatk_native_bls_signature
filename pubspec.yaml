@@ -14,8 +14,7 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   ffi: ^1.1.2
-
-  #normalization
+ 
   unorm_dart: ^0.2.0
 
   #crypto libraries
